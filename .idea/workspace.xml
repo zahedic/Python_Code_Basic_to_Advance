@@ -1,13 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a123688-6613-453f-a452-ed2fae12ddea" name="Changes" comment="" />
+    <list default="true" id="4a123688-6613-453f-a452-ed2fae12ddea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/01_Python_Code_Basic/Fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Python_Code_Basic/Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Python_Code_DSA/Graph_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Python_Code_DSA/Graph_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Python_Code_DSA/Graph_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Python_Code_DSA/Graph_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Python_Code_DSA/Graph_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Python_Code_DSA/Graph_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Python_Code_DSA/Graph_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Python_Code_DSA/Graph_08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_Code_Basic_to_Advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Code_Basic_to_Advance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Python_Code_Basic/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Python_Code_Basic/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Python Project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Python Project/.idea/Python Project_01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Python Project/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Python Project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Python Project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Python Project/Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Python Project/QR_Code_Generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Python Project/Tkinter_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Python Project/Tkinter_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Python Project/Tkinter_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Python Project/Tkinter_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Python Project/Tkinter_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Python Project/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Python Project/practics.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2oPtuAS4kaHAkh6B2pJnTGzkNAA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,9 +60,126 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/ICON COMPUTER TECHNOLOGY/Artificial Intelligence/Python ALL/Python_Code_Basic_to_Advance"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Zawad_Personal_Project_January_2025/Python_A_to_Z"
   }
 }]]></component>
+  <component name="RunManager" selected="Python.file_handaling">
+    <configuration name="Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Code_Basic_to_Advance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Python_Code_Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Python_Code_Basic/Fibonacci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Graph_07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Code_Basic_to_Advance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Python_Code_DSA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Python_Code_DSA/Graph_07.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Code_Basic_to_Advance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Python_Code_Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Python_Code_Basic/Recursion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_handaling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Code_Basic_to_Advance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Python_Code_Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Python_Code_Basic/file_handaling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Code_Basic_to_Advance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Python_Code_Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Python_Code_Basic/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.file_handaling" />
+        <item itemvalue="Python.hello" />
+        <item itemvalue="Python.Recursion" />
+        <item itemvalue="Python.Fibonacci" />
+        <item itemvalue="Python.Graph_07" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
